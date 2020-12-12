@@ -10,42 +10,42 @@
 | 会議室                      | かいぎしつ | Kaigijitsu | 会议室 |
 | 改修                      | かいしゅう | Kaishū | 改修 |
 | 改善点                      | かいぜんてん | Kai zen ten | 改善点 |
-| 開発部                      | かいはつぶ | Kai zen ten | 开发部 |
-| 階段                      | かいだん | Kai zen ten | 楼梯 |
-| 確認する                      | かくにんする | Kai zen ten | 确认 |
-| 課題管理表                      | かだいかんりひょう | Kai zen ten | 课题管理表 |
-| 期限                      | きげん | Kai zen ten | 期限 |
-| 議事録                      | ぎじろく | Kai zen ten | 会议记录 |
-| 画面                      | がめん | Kai zen ten | 画面 |
-| 関係図                      | かんけいず | Kai zen ten | 关系图 |
-| 簡単                      | かんたん | Kai zen ten | 简单 |
-| 管理表                      | かんりひょう | Kai zen ten | 管理表 |
-| 機能                      | きのう | Kai zen ten | 功能 |
-| 基本設計書                      | きほんせっけいしょ | Kai zen ten | 基本设计书 |
-| 共通関数                      | きょうつうかんすう | Kai zen ten | 共同函数 |
-| 具体的                      | ぐたいてき | Kai zen ten | 具体的 |
-| 計画                      | けいかく | Kai zen ten | 计划 |
-| 契約書                      | けいやくしょ | Kai zen ten | 合同 |
-| 結合試験                      | けつごうしけん | Kai zen ten | 结合测试 |
-| 検索                      | けんさく | Kai zen ten | 搜索 |
-| 検証する                      | けんしょうする | Kai zen ten | 验证 |
-| 検討する                      | けんとうする | Kai zen ten | 讨论 |
-| 航空券                      | こうくうけん | Kai zen ten | 机票 |
-| 工程表                      | こうていひょう | Kai zen ten | 工程表 |
-| 誤解する                      | ごかいする | Kai zen ten | 误解 |
-| 最敬礼                      | さいけいれい | Kai zen ten | 深鞠躬 |
-| 作業量                      | さぎょうりょう | Kai zen ten | 工作量 |
-| 削除する                      | さくじょする | Kai zen ten | 删除 |
-| 作成する                      | さくせいする | Kai zen ten | 制作 |
-| 残業する                      | ざんぎょうする | Kai zen ten | 加班 |
-| 試験環境                      | しけんかんきょう | Kai zen ten | 测试环境 |
-| 実装する                      | じっそうする | Kai zen ten | 实装 |
-| 指摘                      | してき | Kai zen ten | 指摘 |
-| 事務室                      | じむしつ | Kai zen ten | 办公室 |
-| 事務所                      | じむしょ | Kai zen ten | 事务所 |
-| 修正                      | しゅうせい | Kai zen ten | 修正 |
-| 出張する                      | しゅっちょうする | Kai zen ten | 出差 |
-| 仕様書                      | しようしょ | Kai zen ten | 式样书 |
+| 開発部                      | かいはつぶ | Kaihatsubu | 开发部 |
+| 階段                      | かいだん | Kaidan | 楼梯 |
+| 確認する                      | かくにんする | Kakunin suru | 确认 |
+| 課題管理表                      | かだいかんりひょう | Ka dai kanri hyō | 课题管理表 |
+| 期限                      | きげん | Ki gen | 期限 |
+| 議事録                      | ぎじろく | Gijiroku | 会议记录 |
+| 画面                      | がめん | Ga men | 画面 |
+| 関係図                      | かんけいず | Kan ke izu | 关系图 |
+| 簡単                      | かんたん | Kanta n | 简单 |
+| 管理表                      | かんりひょう | Kanri hyō | 管理表 |
+| 機能                      | きのう | Kinō | 功能 |
+| 基本設計書                      | きほんせっけいしょ | Ki hon sekkeisho | 基本设计书 |
+| 共通関数                      | きょうつうかんすう | Kyōtsū kansū | 共同函数 |
+| 具体的                      | ぐたいてき | Guteiteki | 具体的 |
+| 計画                      | けいかく | Keikaku | 计划 |
+| 契約書                      | けいやくしょ | Keiyakusho | 合同 |
+| 結合試験                      | けつごうしけん | Ketsugō shiken | 结合测试 |
+| 検索                      | けんさく | Kensaku | 搜索 |
+| 検証する                      | けんしょうする | Kenshō suru | 验证 |
+| 検討する                      | けんとうする | Kentō suru | 讨论 |
+| 航空券                      | こうくうけん | Kōkūken | 机票 |
+| 工程表                      | こうていひょう | Kō tei hyō | 工程表 |
+| 誤解する                      | ごかいする | Gokai suru | 误解 |
+| 最敬礼                      | さいけいれい | Saikeirei | 深鞠躬 |
+| 作業量                      | さぎょうりょう | Sagyō-ryō | 工作量 |
+| 削除する                      | さくじょする | Sakujo suru | 删除 |
+| 作成する                      | さくせいする | Sakusei suru | 制作 |
+| 残業する                      | ざんぎょうする | Zangyō suru | 加班 |
+| 試験環境                      | しけんかんきょう | Shiken kankyō | 测试环境 |
+| 実装する                      | じっそうする | Jissō suru | 实装 |
+| 指摘                      | してき | Shiteki | 指摘 |
+| 事務室                      | じむしつ | Jimu-shitsu | 办公室 |
+| 事務所                      | じむしょ | Jimusho | 事务所 |
+| 修正                      | しゅうせい | Shū sei | 修正 |
+| 出張する                      | しゅっちょうする | Shutchō suru | 出差 |
+| 仕様書                      | しようしょ | Shiyō sho | 式样书 |
 
 袁桑
 
